@@ -14,6 +14,6 @@ A high-performance command-line task management system built to demonstrate adva
 * Git/GitHub
 
 ## 🖥️ How to Run
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
+1. Clone the repository: `git clone https://github.com/sh6k/cli-task-manager.git`
 2. Open the `.sln` file in Visual Studio.
 3. Press `Ctrl + F5` to compile and run.
